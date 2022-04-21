@@ -1,2 +1,7 @@
-/.vs/TestWork/v16/*.suo
 /.vs
+/AppClosestEnemy/obj
+/AppClosestEnemy/bin
+/AppCorrectPath/obj
+/AppCorrectPath/bin
+/AppTraversePreOrder/bin
+/AppTraversePreOrder/obj
